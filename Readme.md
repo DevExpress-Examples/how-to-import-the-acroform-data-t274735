@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/ImportFormData/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ImportFormData/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/ImportFormData/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/ImportFormData/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/ImportFormData/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ImportFormData/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to import the AcroForm data
 
